@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div.qr p{
+    color: whitesmoke;
+    font-size: 40px;
+    padding: 40px;
+    
+}
+div.qr{
+    background-color: black;
+    
+}
+div.what-can-you-do p{
+    color: whitesmoke;
+    font-size: 40px;
+    text-align: center;
+}
+div.what-can-you-do{
+    background-color: black;
+}
+.body{
+    color: blacks;
+}
+div.how-you-can-go-there p{
+    color: whitesmoke;
+    font-size: 40px;
+    padding: 40px;
+}
+div.how-you-can-go-there{
+    background-color: black;
+    
+}
+.img{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.img1{
+    width: 450px;
+    height: 400px;
+}
+.img2{
+    width: 450px;
+    height: 400px;
+}
+.img3{
+    width: 450px;
+    height: 400px;
+}
